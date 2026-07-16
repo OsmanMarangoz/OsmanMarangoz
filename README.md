@@ -2,7 +2,7 @@
 
 **Computer Science (B.Sc.) | M.Sc. Student in Robotics & AI in Production @ HKA**
 
-I want to ensure that AI and robotics will not be misused.
+I am passionate about ensuring that the integration of AI and robotics into production and society remains **safe, ethical, and free from misuse**.
 ---
 
 ## 🎯 Looking for a Master's Thesis!
