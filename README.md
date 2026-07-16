@@ -1,27 +1,48 @@
-Hi there, I'm Osman! 👋 🇹🇷 🇩🇪
+# Hi there, I'm Osman! 👋 🇹🇷 🇩🇪
 
-I am a Computer Science graduate (B.Sc.) and current M.Sc. Student in Robotics and Artificial Intelligence in Production at the Karlsruhe University of Applied Sciences (HKA).
+**Computer Science (B.Sc.) | M.Sc. Student in Robotics & AI in Production @ HKA**
 
-I want to ensure that the AI and robotics integration into production and society remains safe, ethical, and free from misuse.
-🎯 Looking for a Master's Thesis!
+I want to ensure that AI and robotics will not be misused.
+---
 
-I am currently seeking a Master's Thesis position starting soon (Free from August/oktober 2026). If you have an exciting project in:
+## 🎯 Looking for a Master's Thesis!
 
-    Explainable AI (XAI) in ai, robotics, or production
-    Robotics of all kinds! give me ones with arms! mobile ones! or eight legged spider mars rovers !
+*Available starting August/October 2026*
 
-...let's connect! I'd love to bring my computer science foundation and robotics experience to your team.
-⚙️ What I Do & Study
+I am currently seeking an exciting Master's Thesis position. I'd love to bring my computer science foundation and hands-on robotics experience to your team. I am particularly interested in:
 
-    🎓 M.Sc. Robotics & AI in Production | Hochschule Karlsruhe (HKA) (Current)
-    🎓 B.Sc. Computer Science | Hochschule Furtwangen (HFU) (Completed)
+- 🧠 **Explainable AI (XAI)** in AI, robotics, or production environments.
+- 🤖 **Robotics of all kinds!** Give me ones with arms, mobile ones, or eight-legged spider Mars rovers! 
 
-📊 GitHub Stats
+---
 
-Osman's GitHub Stats Top Languages
-📫 How to Reach Me
+## ⚙️ What I Do & Study
 
-    💼 Connect on LinkedIn
-    📧 Shoot me an Email: maos1011@h-ka.de
+- 🎓 **M.Sc. Robotics & AI in Production** | *Hochschule Karlsruhe (HKA)* (Current)
+- 🎓 **B.Sc. Computer Science** | *Hochschule Furtwangen (HFU)* (Completed)
 
-„Die freie Entwicklung eines jeden ist die Bedingung für die freie Entwicklung aller.“
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OsmanMarangoz&show_icons=true&theme=transparent&hide_border=true&title_color=2f80ed&icon_color=2f80ed&text_color=ffffff" alt="Osman's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsmanMarangoz&layout=compact&theme=transparent&hide_border=true&title_color=2f80ed&text_color=ffffff" alt="Top Languages" />
+</div>
+
+---
+
+## 📫 How to Reach Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/osman-m-14ba69226/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:maos1011@h-ka.de">
+    <img src="https://img.shields.io/badge/Email-maos1011@h--ka.de-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
+
+<br>
+
+> *"Die freie Entwicklung eines jeden ist die Bedingung für die freie Entwicklung aller."*
