@@ -23,15 +23,6 @@ I am currently seeking an exciting Master's Thesis position. I'd love to bring m
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OsmanMarangoz&show_icons=true&theme=transparent&hide_border=true&title_color=2f80ed&icon_color=2f80ed&text_color=ffffff" alt="Osman's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsmanMarangoz&layout=compact&theme=transparent&hide_border=true&title_color=2f80ed&text_color=ffffff" alt="Top Languages" />
-</div>
-
----
-
 ## 📫 How to Reach Me
 
 <p align="left">
